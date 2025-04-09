@@ -124,6 +124,7 @@ header.Masai-header .search-area form.search button {
   outline: none;
   background-color: #f1f9fa;
   margin-top: 1px;
+  padding: 0 0.4rem;
 }
 
 header.Masai-header .search-area form.search button img {
